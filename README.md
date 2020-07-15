@@ -31,8 +31,7 @@ This repository helps people who are looking for resources to follow a NLP track
    <td>
      🏥 &nbsp;Data Scientist<a href="https://spectraltech.ai/" target="_blank">@Spectral Tech AI</a><br>
      📚 &nbsp;Author <a href="https://www.packtpub.com/in/" target="_blank">@Packt</a><br>
-     🔥 &nbsp;Founder <a href="https://twitter.com/HotSpotRide" target="_blank">@HotSpot</a><br>
-     🎓 &nbsp;Alum <a href="http://gatech.edu/" target="_blank">@GeorgiaTech</a><br>
+     🔥 &nbsp;Machine Learning Engineer(Open Source) <a href="https://www.robofied.com/" target="_blank">@Robofied</a><br>
    </td>
    <td>
      <img width="20" src="https://github.com/ridhimagarg/ridhimagarg/blob/master/ridhima-site-favicon-square.png"> &nbsp;<a href="https://ridhimagarg.github.io/index.html" target="_blank">Portfolio</a><br>
