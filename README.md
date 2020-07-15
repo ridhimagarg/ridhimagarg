@@ -6,9 +6,13 @@ Being a Machine Learning Engineer, I enjoy bridging the gap between machine and 
 
 ### :heavy_check_mark: Tech Stack 
 
-- Natural Language Processing
+- Machine Learning, Data Analysis, Natural Language Processing
 
-- Python, API development
+- API developement using Flask, Django, AWS Deployment
+
+- Libraries: Scikit-learn, Keras for deep learning 
+
+- Python, C, JavaScript
 
 ### 🔭 I’m currently working on 
 
