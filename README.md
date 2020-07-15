@@ -38,7 +38,7 @@ This repository helps people who are looking for resources to follow a NLP track
      📚 &nbsp;Author <a href="http://jhu.edu/" target="_blank">@JohnsHopkins</a><br>
    </td>
    <td>
-     <img width="20" src="https://goku.me/static/img/goku_circle.png"> &nbsp;<a href="https://ridhimagarg.github.io/index.html" target="_blank">Portfolio</a><br>
+     <img width="20" src="ridhima site favicon square.png"> &nbsp;<a href="https://ridhimagarg.github.io/index.html" target="_blank">Portfolio</a><br>
      <img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> &nbsp;<a href="https://www.linkedin.com/in/ridhima-garg/" target="_blank">LinkedIn</a><br>
    </td>
  </tr>
