@@ -2,7 +2,11 @@
 
 Data Scientist | Natural Language Processing | Virtual Assistant | Author at Packt
 
-## 🔭 I’m currently working on ...
+### 🔭 I’m currently working on 
+
+Collaborating to open source that enable people to solve problems
+
+#### - [Voicenet](https://github.com/Robofied/Voicenet)
 
 <!--
 **ridhimagarg/ridhimagarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
