@@ -2,6 +2,14 @@
 
 Data Scientist | Natural Language Processing | Virtual Assistant | Author at Packt
 
+Being a Machine Learning Engineer, I enjoy bridging the gap between machine and intelligence, tries to solve real-life problems in the optimized way and incorporate the build intelligence using Machine learning into a end-level product/application.
+
+### :heavy_check_mark: Tech Stack 
+
+- Natural Language Processing
+
+- Python, API development
+
 ### 🔭 I’m currently working on 
 
 Collaborating to open source that enable people to solve problems
