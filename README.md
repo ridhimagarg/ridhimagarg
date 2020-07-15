@@ -29,13 +29,10 @@ This repository helps people who are looking for resources to follow a NLP track
  </tr>
  <tr>
    <td>
-     🌏 &nbsp;Founder <a href="https://madewithml.com/" target="_blank">@madewithml</a><br>
-     🏥 &nbsp;ML Lead <a href="http://ciitizen.com/" target="_blank">@Ciitizen</a><br>
-     🔬 &nbsp;AI Research <a href="http://apple.com/" target="_blank">@Apple</a><br>
-     📚 &nbsp;Author <a href="https://www.oreilly.com/" target="_blank">@OReillyMedia</a><br>
+     🏥 &nbsp;Data Scientist<a href="https://spectraltech.ai/" target="_blank">@Spectral Tech AI</a><br>
+     📚 &nbsp;Author <a href="https://www.packtpub.com/in/" target="_blank">@Packt</a><br>
      🔥 &nbsp;Founder <a href="https://twitter.com/HotSpotRide" target="_blank">@HotSpot</a><br>
      🎓 &nbsp;Alum <a href="http://gatech.edu/" target="_blank">@GeorgiaTech</a><br>
-     📚 &nbsp;Author <a href="http://jhu.edu/" target="_blank">@JohnsHopkins</a><br>
    </td>
    <td>
      <img width="20" src="https://github.com/ridhimagarg/ridhimagarg/blob/master/ridhima-site-favicon-square.png"> &nbsp;<a href="https://ridhimagarg.github.io/index.html" target="_blank">Portfolio</a><br>
